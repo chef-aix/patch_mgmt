@@ -1,0 +1,7 @@
+name 'patch_mgmt'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures patch_mgmt'
+long_description 'Installs/Configures patch_mgmt'
+version '0.1.0'
